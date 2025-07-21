@@ -82,15 +82,6 @@ You can run this notebook directly in **Google Colab** or any local Jupyter envi
 
 ---
 
-## 📌 Internship Task Details
-
-- **Task Name**: Auto Tagging Support Tickets Using LLM (Simplified to Rule-Based)
-- **Internship**: DevelopersHub Corporation - AI/ML Advanced Internship
-- **Submitted by**: *[Your Name Here]*
-- **Due Date**: 24th July 2025
-
----
-
 ## 🏁 Final Summary
 
 This lightweight task demonstrates a practical and computationally efficient way to classify support queries — ideal for quick demos, small businesses, or low-resource environments.
