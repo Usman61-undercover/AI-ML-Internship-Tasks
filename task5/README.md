@@ -1,4 +1,4 @@
-# 🎫 Task C: Auto Tagging Support Tickets (Rule-Based NLP)
+# 🎫 Task 5: Auto Tagging Support Tickets (Rule-Based NLP)
 
 This repository contains the solution for **Task C** of the DevelopersHub Corporation AI/ML Engineering – Advanced Internship. The goal of this task is to automatically tag support tickets into appropriate categories using efficient and lightweight natural language processing (NLP) techniques — without the use of APIs or heavy machine learning models.
 
